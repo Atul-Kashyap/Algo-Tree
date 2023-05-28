@@ -1,6 +1,7 @@
    /*Check if the linked list is palindrome or not if yes return true if not return false. Linked list has to be taken as an input from the user.*/
 
 #include <iostream>
+
 class Node
 {
 public:
